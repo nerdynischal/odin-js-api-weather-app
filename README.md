@@ -11,7 +11,7 @@ A modern weather app built with JavaScript and Webpack.
 
 ## 🔗 Live Demo
 
-👉 [View the live app here](https://your-live-demo-link.com)
+👉 [View the live app here](https://nerdynischal.github.io/odin-js-api-weather-app)
 
 ---
 
