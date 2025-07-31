@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div id="app">
+      <h1>Weather Forecast</h1>
+      <form id="locationForm">
+        <input
+          type="text"
+          id="locationInput"
+          placeholder="Enter location"
+          required
+        />
+        <button type="submit">Get Weather</button>
+      </form>
+      <button id="toggleUnit">Switch to °F</button>
+      <div id="loading" style="display: none">Loading...</div>
+      <div id="weather"></div>
+      <h2>3-Day Forecast</h2>
+      <div id="forecast"></div>
+    </div>
+  </body>
+</html>
